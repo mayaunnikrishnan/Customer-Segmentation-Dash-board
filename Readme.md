@@ -10,6 +10,7 @@ This project involves customer segmentation using Agglomerative Clustering on li
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and clustering.
 - `src/`: Contains Python scripts for data preprocessing, clustering, and visualization.
 - `app/`: Contains Streamlit app files for interactive visualization.
+- [Click me](https://customer-segmentation-dash-board-8pkvgth4rghayfnpra2ktq.streamlit.app/) to visit the Interactive Dash Board.
 
 ## Requirements
 
